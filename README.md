@@ -1,3 +1,3 @@
 # JAVA
 
-Basic JAVA projects
+Sushi Shop
